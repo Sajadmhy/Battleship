@@ -1,4 +1,4 @@
-import { createDiv, createElem } from './elmcreator';
+import { createDiv, createElem } from './elmCreator';
 
 function boats() {
   const rightCol = createDiv(['col-2']);
