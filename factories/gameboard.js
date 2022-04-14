@@ -1,5 +1,5 @@
 import Ship from './ship';
-import { randomShip } from '../auxFunctions';
+import { randomShip } from '../randomize';
 
 const GameBoard = (testing) => {
   const ship = {
